@@ -24,9 +24,9 @@
         "yargs-parser": "^21.1.1"
     },
     "scripts": {
-        "postbuild": "cp -r build ../giftwebsite/",
         "start": "react-scripts start",
         "build": "react-scripts build",
+        "postbuild": "cp -r build ../giftwebsite/",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     },

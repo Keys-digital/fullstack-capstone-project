@@ -1,0 +1,51 @@
+{
+  "name": "giftwebsite",
+  "version": "1.0.0",
+  "description": "Gift website backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keys-digital/fullstack-capstone-project.git"
+  },
+  "keywords": [
+    "Gift",
+    "website",
+    "Online",
+    "gift",
+    "store",
+    "Best",
+    "gifts",
+    "online",
+    "Gift",
+    "ideas",
+    "Unique",
+    "gift",
+    "ideas",
+    "Personalized",
+    "gifts",
+    "Buy",
+    "gifts",
+    "online",
+    "Gifts",
+    "for",
+    "special",
+    "occasions",
+    "Gift",
+    "shop",
+    "Custom",
+    "gifts"
+  ],
+  "author": "Light Ikoyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keys-digital/fullstack-capstone-project/issues"
+  },
+  "homepage": "https://github.com/Keys-digital/fullstack-capstone-project#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
